@@ -28,7 +28,7 @@ public class Main {
 
 		nome_evento = "Partita Juventus-Napoli";
 
-		data_evento = LocalDate.of(2019, Month.AUGUST, 31);
+		data_evento = LocalDate.of(2019, Month.SEPTEMBER, 31);
 
 		VideoEvento v2 = new VideoEvento(nome_evento, data_evento, Sport.CALCIO);
 
